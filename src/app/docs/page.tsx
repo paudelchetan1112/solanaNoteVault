@@ -83,7 +83,7 @@ export default function Docs() {
         </p>
         <ul className={`list-disc pl-6 space-y-4 text-gray-600 leading-relaxed`}>
           <li>
-            <strong>On-Chain Program:</strong> The core logic of the DApp resides in a Solana program deployed at the address: <code>EuXGJJMr69HGJycN5TMNF7ek3d1fxMSKMpqFbWqMmeH7</code>. This program defines the rules for creating, updating, and deleting note data.
+            <strong>On-Chain Program:</strong> The core logic of the DApp resides in a Solana program deployed at the address: <code>4y3Yk2ZxNMtXidf6CDwnZzvodAcUC2nZqyD3k9pscbTS</code>. This program defines the rules for creating, updating, and deleting note data.
           </li>
           <li>
             <strong>Anchor Framework:</strong> We use the <span className="text-green">Anchor framework</span>  for writing the Solana program. Anchor streamlines development by providing a clear structure, robust serialization, and simplified client-side interaction with the program's functions.
