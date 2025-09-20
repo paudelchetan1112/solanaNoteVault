@@ -148,10 +148,13 @@ export default function Docs() {
         </p>
         <ul className={`list-disc pl-6 space-y-2 mt-4 text-gray-600`}>
           <li>
-            <strong>GitHub Repository:</strong> <a href={`https://github.com/your-username/solana-note-vault`} className={`text-teal-600 hover:underline`}>https://github.com/Dharmendra016/solana-note-vault</a>
+            <strong>GitHub Repository: for client :</strong> <a href={`https://github.com/paudelchetan1112/solanaNoteVault`} className={`text-teal-600 hover:underline`}>https://github.com/paudelchetan1112/solanaNoteVault</a>
+          </li>
+           <li>
+            <strong>GitHub Repository: for contract :</strong> <a href={`https://github.com/paudelchetan1112/note-vault-contract`} className={`text-teal-600 hover:underline`}>https://github.com/paudelchetan1112/note-vault-contract</a>
           </li>
           <li>
-            <strong>Contact Maintainers:</strong> <a href={`mailto:info@dharmendrasinghchaudhary.com`} className={`text-teal-600 hover:underline`}>info@dharmendrasinghchaudhary.com</a>
+            <strong>Contact Maintainers:</strong> <a href={`mailto:paudelchetan1112@gmail.com`} className={`text-teal-600 hover:underline`}>paudelchetan1112@gmail.com</a>
           </li>
         </ul>
       </section>
