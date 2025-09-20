@@ -371,11 +371,7 @@ export default function Home() {
               >
                 {/* Note Card Header */}
                 <div className="bg-gradient-to-r from-teal-500 to-cyan-500 p-4 flex items-center gap-3">
-                  <img
-                    src={avatarUrl(note.account.title)}
-                    alt="avatar"
-                    className="w-10 h-10 rounded-full border-2 border-white"
-                  />
+                  
                   <div className="flex-1 min-w-0">
                     <h3 className="text-lg font-semibold text-white truncate">{note.account.title}</h3>
                     <p className="text-xs text-teal-100 truncate">{note.account.author.toBase58()}</p>
