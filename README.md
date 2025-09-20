@@ -24,6 +24,14 @@ Solana Note Vault addresses these challenges by leveraging the Solana blockchain
 
 By decentralizing note-taking, Solana Note Vault empowers users to maintain privacy, security, and ownership of their data, solving the core issues of centralized note-taking apps.
 
+
+# Note Vault Contract
+
+This is a smart contract repository for the "Note Vault" application on Solana.  
+It uses the Anchor framework to enable secure and encrypted note storage.  
+Users can safely create, read, update, and delete their notes on-chain.  
+Repository link: [Note Vault Contract](https://github.com/paudelchetan1112/note-vault-contract)
+
 ## Features
 
 - **Create Notes**: Add new notes with a title (up to 100 characters) and content (up to 1000 characters) via a sleek modal interface triggered by an "Add Note" button.
