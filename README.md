@@ -48,8 +48,8 @@ By decentralizing note-taking, Solana Note Vault empowers users to maintain priv
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/solana-note-vault.git
-   cd solana-note-vault
+   git clone https://github.com/paudelchetan1112/solanaNoteVault
+   cd solanaNoteVault
    ```
 
 2. **Install Dependencies**
